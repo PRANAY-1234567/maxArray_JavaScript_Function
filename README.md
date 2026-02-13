@@ -54,4 +54,4 @@ function maxArray(arr) {
 }
 👨‍💻 Author
 
-Created for learning basic JavaScript array operations.
+Pranay Jadhao
