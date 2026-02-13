@@ -1,4 +1,5 @@
 📘 README — maxArray JavaScript Function
+
 📌 Description
 
 This code defines a simple JavaScript function maxArray that finds and returns the largest number from an array of numbers.
