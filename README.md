@@ -55,3 +55,6 @@ function maxArray(arr) {
 👨‍💻 Author
 
 Pranay Jadhao
+
+<img width="874" height="640" alt="image" src="https://github.com/user-attachments/assets/d080b5f3-7d6f-4fa3-ba0c-7e3921b8a1ad" />
+
