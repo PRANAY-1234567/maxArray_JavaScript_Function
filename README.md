@@ -184,7 +184,6 @@ Aspiring Software Engineer | Python | Java | JavaScript | SQL | Data Analytics
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
 Feel free to use, modify, and contribute for educational and learning purposes.
 
 ---
