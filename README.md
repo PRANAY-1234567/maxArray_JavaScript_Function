@@ -49,7 +49,6 @@ Any scenario where you need the largest number from a dataset
 🚀 Quick Tip
 
 If the array might be empty, you should handle it like this:
-
 function maxArray(arr) {
   return arr.length ? Math.max(...arr) : null;
 }
