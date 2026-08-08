@@ -3,7 +3,6 @@
 📌 Description
 
 This code defines a simple JavaScript function maxArray that finds and returns the largest number from an array of numbers.
-
 It uses JavaScript’s built-in Math.max() method along with the spread operator (...) to compare all values in the array.
 
 ⚙️ How the Code Works
